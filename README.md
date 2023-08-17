@@ -1,21 +1,27 @@
-### 👋 Olá, me chamo César Nocrato 
+## César Nocrato 
 
-Há 1 ano ingressei na área de tecnologia como Suporte e durante algumas atividades envolvendo testes manuais, acabei me tornando entusiasta da área de Testes e Qualidade de Software. Atualmente, estou realizando um curso de formação em Quality Assurance para acelerar meu desenvolvimento e em paralelo estou me graduando em Sistemas de Informação. 
+Profissional da área que suporte, teve a oportunidade de desenvolver, na prática, competências
+analíticas e resolutivas ao identificar, analisar, testar e contribuir na resolução de problemas em
+plataformas de Marketplaces e no suporte para integrações de API&#39;s RESTful em sistemas. Atualmente,
+vem focando para se tornar proficiente na área de testes e qualidade de software por meio cursos,
+práticas e estudos dos conceitos da documentação oficial da ISTQB® Certified Tester Foundation Level
+(CTFL).
 
 Neste perfil, você encontrará meus registros de estudos e projetos desenvolvidos.
 
-#### ⚙️ Conheça meus projetos 
+#### 🛠️ Projetos
 
-##### - [Bookmarklets para otimizar testes manuais](https://github.com/acnocrato/projeto-bookmarklets-para-testes-manuais/)
-Competências trabalhadas: Escrita de User Story, Cenários de testes em Gherkin (BDD), Lógica de Programação em Javascript, etc.
+#### ⚙️  [Postman: Automação para checar versões de marketplaces](https://github.com/acnocrato/postman-marketplace-version-check/)
+- Competências trabalhadas: Postman API, Run Collection, Automação de Testes e JavaScript.
+
+##### ⚙️ [Bookmarklets para otimizar testes manuais](https://github.com/acnocrato/projeto-bookmarklets-para-testes-manuais/)
+- Competências trabalhadas: Escrita de User Story, Cenários de testes em Gherkin (BDD), Lógica de Programação em Javascript, etc.
 
 
-#### 🌐 Meus contatos
-- Linkedin: https://www.linkedin.com/acnocrato/
-- Agenda para reuniões: https://calendly.com/acnocrato
-- E-mail: [nocratocesar@gmail.com](mailto:nocratocesar@gmail.com)
-
-💬🚀 Adoro compartilhar conhecimento e conversar sobre projetos. Se você tiver alguma pergunta, sugestão ou apenas quiser bater um papo sobre tecnologia, fico à disposição!
+#### 📬 Contatos
+- 🎯 **Linkedin:** https://www.linkedin.com/acnocrato/
+- 🎯 **Agenda para reuniões:** https://calendly.com/acnocrato
+- 🎯 **E-mail:** [nocratocesar@gmail.com](mailto:nocratocesar@gmail.com)
 
 
 
