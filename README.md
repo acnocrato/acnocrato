@@ -7,8 +7,6 @@ vem focando para se tornar proficiente na área de testes e qualidade de softwar
 práticas e estudos dos conceitos da documentação oficial da ISTQB® Certified Tester Foundation Level
 (CTFL).
 
-Neste perfil, você encontrará meus registros de estudos e projetos desenvolvidos.
-
 #### 🛠️ Projetos
 
 #### ⚙️  [Postman: Automação para checar versões de marketplaces](https://github.com/acnocrato/postman-marketplace-version-check/)
